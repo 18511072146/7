@@ -13,6 +13,7 @@ The W,A, and D buttons are used to control the player's left and right movement 
 
 
 How to run this game:
+
 You can play the game directly by clicking on the Game2D.exe file, or go to the unreal engine project file to open the game, you need to find the file named all in the UE project, and then open it, and then go to the first folder and open it, and then find the file named NewMap in this folder. Double-click it, and then you will see the game map, click the green play button right above, you can play the game.
 
 
